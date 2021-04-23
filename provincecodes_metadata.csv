@@ -1,0 +1,7 @@
+"column","description"
+"name_en","Common english name for province/territory"
+"name_fr","Common french name for province/territory"
+"iso2c","Internationally approved alpha code/unique two-character identifier for a province/territory"
+"region","Canada Post region"
+"sgc_code","Province/territory Standard Geographical Classification (SGC) code"
+"pop_2021","Population size as of the first quarter of 2021"
